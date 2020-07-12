@@ -39,7 +39,7 @@ class Email
     /**
      * @var boolean
      */
-    protected $isActive;
+    protected $isActive = true;
 
 
     public function getId()
