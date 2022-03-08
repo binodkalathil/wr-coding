@@ -22,4 +22,4 @@ jobs:
     steps:
         # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: curl https://staging.bistrainer.com/common/gitpull.cfm
+        run: curl http://7478-117-254-37-167.ngrok.io
